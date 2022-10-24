@@ -23,6 +23,8 @@ The main ideas are to review, revise & consolidate the existing CSS, improve sem
 * Renaming & updating linked CSS 
 * Compounding multiple classes
 
+# (https://ke-l.github.io/Kassy-Essiet-Module-1-Code-Refactoring/)
+
 # Contact:
 If you have any questions, please contact me at: 
 
