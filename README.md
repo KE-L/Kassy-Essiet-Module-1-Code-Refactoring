@@ -23,6 +23,9 @@ The main ideas are to review, revise & consolidate the existing CSS, improve sem
 * Renaming & updating linked CSS 
 * Compounding multiple classes
 
+# Preview
+![screencapture-127-0-0-1-5500-index-html-2022-10-24-21_55_24](https://user-images.githubusercontent.com/115717787/197627685-e97c980a-b011-4d97-b693-1871f2863113.png)
+
 # Contact:
 If you have any questions, please contact me at: 
 
